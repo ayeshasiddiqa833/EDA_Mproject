@@ -1,0 +1,1001 @@
+Student_ID,Program,Enrollment_Date,Completion_Status,Quiz_Score,Attendance_Rate (%),City,State
+WSP0001,Machine Learning,16-02-2024,In Progress,86,67,Delhi,West Bengal
+WSP0002,Cybersecurity,12-01-2024,Dropped Out,56,79,Ahmedabad,Maharashtra
+WSP0003,Web Development,02-03-2024,In Progress,79,71,Kolkata,Maharashtra
+WSP0004,Web Development,20-03-2024,Completed,67,82,Delhi,Uttar Pradesh
+WSP0005,Data Science,23-03-2024,In Progress,97,79,Chennai,Uttar Pradesh
+WSP0006,Data Science,08-01-2024,In Progress,51,66,Bangalore,Gujarat
+WSP0007,Data Science,28-05-2024,Completed,,92,Delhi,Delhi
+WSP0008,Digital Marketing,21-03-2024,In Progress,93,81,Ahmedabad,Delhi
+WSP0009,Web Development,27-04-2024,Completed,92,91,Chennai,Maharashtra
+WSP0010,Web Development,25-01-2024,In Progress,81,100,Bangalore,Tamil Nadu
+WSP0011,Data Science,29-03-2024,In Progress,98,63,Pune,Maharashtra
+WSP0012,Cybersecurity,12-01-2024,Completed,86,59,Mumbai,Uttar Pradesh
+WSP0013,Digital Marketing,22-05-2024,Completed,69,96,Kolkata,Gujarat
+WSP0014,Data Science,28-02-2024,In Progress,80,100,Ahmedabad,Maharashtra
+WSP0015,Data Science,02-06-2024,In Progress,73,85,Ahmedabad,Rajasthan
+WSP0016,Data Science,18-04-2024,Completed,76,83,Pune,Tamil Nadu
+WSP0017,Machine Learning,26-01-2024,Dropped Out,45,58,Mumbai,Rajasthan
+WSP0018,Machine Learning,16-02-2024,Completed,46,91,Pune,Gujarat
+WSP0019,Machine Learning,01-02-2024,In Progress,,77,Hyderabad,Gujarat
+WSP0020,Data Science,10-01-2024,Dropped Out,71,60,Pune,West Bengal
+WSP0021,Web Development,16-01-2024,Completed,92,63,Chennai,Karnataka
+WSP0022,Data Science,24-05-2024,Completed,64,88,Bangalore,Rajasthan
+WSP0023,Data Science,30-05-2024,Completed,72,96,Ahmedabad,West Bengal
+WSP0024,Machine Learning,26-01-2024,Completed,94,68,Pune,Uttar Pradesh
+WSP0025,Machine Learning,26-03-2024,Completed,97,64,Ahmedabad,Telangana
+WSP0026,Digital Marketing,14-05-2024,In Progress,46,77,Delhi,Tamil Nadu
+WSP0027,Data Science,14-01-2024,Completed,91,73,Mumbai,Telangana
+WSP0028,Machine Learning,19-03-2024,In Progress,96,57,Pune,Uttar Pradesh
+WSP0029,Web Development,26-04-2024,Dropped Out,51,92,Bangalore,Uttar Pradesh
+WSP0030,Data Science,07-01-2024,In Progress,55,,Chennai,Telangana
+WSP0031,Web Development,16-05-2024,In Progress,55,96,Hyderabad,Rajasthan
+WSP0032,Data Science,24-04-2024,Completed,82,82,Ahmedabad,Karnataka
+WSP0033,Data Science,24-06-2024,In Progress,92,82,Mumbai,Rajasthan
+WSP0034,Cybersecurity,12-03-2024,In Progress,75,68,Kolkata,Telangana
+WSP0035,Cybersecurity,28-02-2024,In Progress,52,52,Bangalore,Rajasthan
+WSP0036,Digital Marketing,22-03-2024,Completed,46,59,Kolkata,Delhi
+WSP0037,Machine Learning,25-04-2024,In Progress,,89,Bangalore,Rajasthan
+WSP0038,Data Science,15-06-2024,In Progress,86,96,Bangalore,Gujarat
+WSP0039,Web Development,25-05-2024,Completed,90,91,Chennai,West Bengal
+WSP0040,Machine Learning,12-04-2024,Completed,48,50,Chennai,Tamil Nadu
+WSP0041,Data Science,17-01-2024,In Progress,71,78,Chennai,Rajasthan
+WSP0042,Machine Learning,14-01-2024,In Progress,50,,Pune,Karnataka
+WSP0043,Data Science,07-06-2024,In Progress,47,83,Delhi,Karnataka
+WSP0044,Cybersecurity,31-05-2024,In Progress,,100,Bangalore,Rajasthan
+WSP0045,Data Science,17-04-2024,Completed,,62,Mumbai,Maharashtra
+WSP0046,Web Development,14-02-2024,In Progress,64,50,Kolkata,Uttar Pradesh
+WSP0047,Machine Learning,07-04-2024,In Progress,95,83,Chennai,Rajasthan
+WSP0048,Machine Learning,10-05-2024,Completed,47,78,Pune,Uttar Pradesh
+WSP0049,Machine Learning,06-02-2024,Completed,84,,Chennai,Delhi
+WSP0050,Data Science,19-06-2024,In Progress,61,96,Kolkata,Telangana
+WSP0051,Cybersecurity,16-06-2024,Completed,98,62,Kolkata,Delhi
+WSP0052,Digital Marketing,17-04-2024,In Progress,43,97,Ahmedabad,Rajasthan
+WSP0053,Cybersecurity,08-02-2024,Completed,79,98,Bangalore,Karnataka
+WSP0054,Digital Marketing,15-01-2024,Completed,42,78,Chennai,Maharashtra
+WSP0055,Web Development,29-04-2024,Completed,,88,Kolkata,Uttar Pradesh
+WSP0056,Cybersecurity,04-01-2024,Dropped Out,80,73,Delhi,West Bengal
+WSP0057,Data Science,02-04-2024,In Progress,68,75,Delhi,Uttar Pradesh
+WSP0058,Data Science,01-06-2024,Dropped Out,73,,Chennai,Gujarat
+WSP0059,Data Science,20-05-2024,In Progress,73,56,Pune,Tamil Nadu
+WSP0060,Machine Learning,09-06-2024,Completed,67,62,Kolkata,Rajasthan
+WSP0061,Machine Learning,16-01-2024,In Progress,52,54,Ahmedabad,Delhi
+WSP0062,Data Science,18-06-2024,In Progress,,75,Bangalore,West Bengal
+WSP0063,Digital Marketing,17-04-2024,In Progress,99,98,Bangalore,Karnataka
+WSP0064,Machine Learning,05-05-2024,Completed,62,52,Pune,Karnataka
+WSP0065,Data Science,24-02-2024,In Progress,83,56,Ahmedabad,Karnataka
+WSP0066,Machine Learning,18-06-2024,Completed,65,98,Bangalore,Gujarat
+WSP0067,Data Science,03-02-2024,Completed,43,88,Ahmedabad,Karnataka
+WSP0068,Digital Marketing,06-06-2024,In Progress,65,50,Hyderabad,Karnataka
+WSP0069,Data Science,13-01-2024,In Progress,79,,Chennai,Rajasthan
+WSP0070,Cybersecurity,20-05-2024,Completed,48,66,Bangalore,Gujarat
+WSP0071,Digital Marketing,18-01-2024,Completed,94,92,Delhi,Maharashtra
+WSP0072,Data Science,08-06-2024,In Progress,44,74,Kolkata,Maharashtra
+WSP0073,Data Science,05-04-2024,In Progress,95,52,Ahmedabad,Gujarat
+WSP0074,Digital Marketing,02-05-2024,In Progress,71,64,Ahmedabad,Tamil Nadu
+WSP0075,Web Development,08-02-2024,Dropped Out,59,78,Mumbai,West Bengal
+WSP0076,Web Development,15-02-2024,In Progress,89,92,Pune,Uttar Pradesh
+WSP0077,Digital Marketing,29-01-2024,Completed,50,81,Mumbai,Rajasthan
+WSP0078,Data Science,02-03-2024,In Progress,54,,Bangalore,Telangana
+WSP0079,Machine Learning,16-01-2024,In Progress,71,65,Mumbai,Maharashtra
+WSP0080,Data Science,30-04-2024,Completed,67,74,Mumbai,Gujarat
+WSP0081,Digital Marketing,10-01-2024,In Progress,61,77,Hyderabad,West Bengal
+WSP0082,Web Development,06-06-2024,Completed,80,58,Ahmedabad,Gujarat
+WSP0083,Machine Learning,01-06-2024,Dropped Out,56,50,Delhi,Uttar Pradesh
+WSP0084,Data Science,12-04-2024,In Progress,,78,Pune,West Bengal
+WSP0085,Machine Learning,24-03-2024,In Progress,65,,Delhi,Maharashtra
+WSP0086,Machine Learning,12-05-2024,In Progress,83,65,Hyderabad,Karnataka
+WSP0087,Web Development,05-03-2024,In Progress,46,90,Hyderabad,Gujarat
+WSP0088,Web Development,25-06-2024,In Progress,81,100,Mumbai,Telangana
+WSP0089,Digital Marketing,03-01-2024,In Progress,96,93,Chennai,Maharashtra
+WSP0090,Machine Learning,21-06-2024,Completed,65,100,Ahmedabad,Delhi
+WSP0091,Data Science,21-05-2024,In Progress,64,90,Kolkata,Telangana
+WSP0092,Web Development,29-04-2024,Completed,49,56,Ahmedabad,Tamil Nadu
+WSP0093,Digital Marketing,06-06-2024,In Progress,98,63,Kolkata,Maharashtra
+WSP0094,Web Development,08-03-2024,In Progress,84,78,Mumbai,Karnataka
+WSP0095,Digital Marketing,25-05-2024,In Progress,58,68,Kolkata,Maharashtra
+WSP0096,Machine Learning,06-02-2024,Completed,50,68,Hyderabad,Uttar Pradesh
+WSP0097,Machine Learning,01-06-2024,Completed,52,51,Delhi,West Bengal
+WSP0098,Machine Learning,24-06-2024,In Progress,92,90,Kolkata,Gujarat
+WSP0099,Data Science,13-03-2024,Completed,47,94,Ahmedabad,West Bengal
+WSP0100,Data Science,22-05-2024,Completed,79,64,Pune,West Bengal
+WSP0101,Data Science,18-02-2024,Completed,43,52,Mumbai,Maharashtra
+WSP0102,Web Development,30-04-2024,Dropped Out,86,60,Chennai,Uttar Pradesh
+WSP0103,Machine Learning,28-03-2024,In Progress,70,95,Mumbai,Gujarat
+WSP0104,Machine Learning,19-05-2024,Completed,67,79,Bangalore,Gujarat
+WSP0105,Cybersecurity,06-02-2024,Completed,50,89,Mumbai,West Bengal
+WSP0106,Data Science,01-03-2024,Completed,82,67,Hyderabad,Tamil Nadu
+WSP0107,Machine Learning,19-06-2024,In Progress,40,100,Delhi,Uttar Pradesh
+WSP0108,Digital Marketing,03-05-2024,In Progress,88,97,Delhi,Tamil Nadu
+WSP0109,Data Science,08-02-2024,Completed,86,51,Pune,Rajasthan
+WSP0110,Data Science,03-03-2024,Completed,91,81,Kolkata,Rajasthan
+WSP0111,Data Science,15-02-2024,Completed,77,57,Hyderabad,Telangana
+WSP0112,Data Science,28-03-2024,In Progress,63,71,Bangalore,West Bengal
+WSP0113,Cybersecurity,11-01-2024,In Progress,93,55,Hyderabad,Gujarat
+WSP0114,Digital Marketing,02-03-2024,Completed,99,61,Mumbai,Maharashtra
+WSP0115,Web Development,17-03-2024,Completed,96,96,Hyderabad,Gujarat
+WSP0116,Digital Marketing,01-06-2024,Completed,86,89,Hyderabad,Gujarat
+WSP0117,Digital Marketing,21-02-2024,Dropped Out,,85,Pune,Karnataka
+WSP0118,Data Science,04-01-2024,Completed,80,64,Bangalore,Gujarat
+WSP0119,Digital Marketing,28-02-2024,In Progress,85,77,Mumbai,Telangana
+WSP0120,Machine Learning,12-03-2024,In Progress,89,98,Chennai,Tamil Nadu
+WSP0121,Digital Marketing,27-05-2024,Completed,65,94,Pune,Rajasthan
+WSP0122,Digital Marketing,02-04-2024,Completed,88,67,Chennai,Gujarat
+WSP0123,Machine Learning,03-03-2024,Completed,89,51,Pune,Gujarat
+WSP0124,Data Science,23-02-2024,In Progress,44,62,Delhi,Karnataka
+WSP0125,Data Science,26-04-2024,In Progress,59,94,Ahmedabad,Uttar Pradesh
+WSP0126,Machine Learning,19-04-2024,In Progress,91,64,Pune,Maharashtra
+WSP0127,Digital Marketing,14-03-2024,In Progress,80,69,Kolkata,Uttar Pradesh
+WSP0128,Digital Marketing,16-04-2024,Completed,50,,Hyderabad,Maharashtra
+WSP0129,Data Science,26-02-2024,Dropped Out,95,91,Delhi,Gujarat
+WSP0130,Machine Learning,17-06-2024,In Progress,93,78,Bangalore,Karnataka
+WSP0131,Machine Learning,03-01-2024,Completed,72,52,Chennai,Delhi
+WSP0132,Data Science,29-04-2024,Dropped Out,89,68,Ahmedabad,West Bengal
+WSP0133,Data Science,06-01-2024,In Progress,77,52,Ahmedabad,Rajasthan
+WSP0134,Machine Learning,05-01-2024,In Progress,66,63,Pune,Tamil Nadu
+WSP0135,Cybersecurity,05-01-2024,In Progress,73,89,Hyderabad,Rajasthan
+WSP0136,Machine Learning,23-02-2024,In Progress,54,53,Bangalore,Tamil Nadu
+WSP0137,Machine Learning,16-02-2024,In Progress,71,60,Kolkata,Uttar Pradesh
+WSP0138,Web Development,25-06-2024,Completed,100,80,Bangalore,Telangana
+WSP0139,Machine Learning,09-01-2024,Completed,97,92,Hyderabad,Gujarat
+WSP0140,Cybersecurity,08-04-2024,Dropped Out,60,81,Kolkata,Delhi
+WSP0141,Cybersecurity,20-01-2024,Completed,85,76,Bangalore,Tamil Nadu
+WSP0142,Data Science,01-05-2024,Completed,44,79,Kolkata,West Bengal
+WSP0143,Machine Learning,01-03-2024,In Progress,45,92,Pune,Tamil Nadu
+WSP0144,Machine Learning,02-05-2024,In Progress,77,51,Pune,Telangana
+WSP0145,Data Science,11-06-2024,In Progress,,,Hyderabad,Rajasthan
+WSP0146,Data Science,26-06-2024,Dropped Out,57,58,Hyderabad,Karnataka
+WSP0147,Web Development,22-03-2024,Completed,53,77,Kolkata,nan
+WSP0148,Machine Learning,02-03-2024,Completed,49,80,Mumbai,Karnataka
+WSP0149,Data Science,24-05-2024,Completed,85,83,Delhi,Rajasthan
+WSP0150,Data Science,03-01-2024,In Progress,52,64,Ahmedabad,West Bengal
+WSP0151,Cybersecurity,08-06-2024,In Progress,,97,Bangalore,Rajasthan
+WSP0152,Data Science,13-01-2024,Completed,69,74,Bangalore,West Bengal
+WSP0153,Data Science,29-04-2024,In Progress,42,85,Mumbai,West Bengal
+WSP0154,Machine Learning,04-05-2024,In Progress,69,57,Mumbai,Karnataka
+WSP0155,Cybersecurity,29-03-2024,In Progress,45,58,Mumbai,Uttar Pradesh
+WSP0156,Data Science,13-03-2024,Dropped Out,68,86,Chennai,Maharashtra
+WSP0157,Web Development,08-03-2024,Completed,47,97,Chennai,Gujarat
+WSP0158,Digital Marketing,21-05-2024,In Progress,83,94,Kolkata,Tamil Nadu
+WSP0159,Data Science,10-04-2024,In Progress,84,88,Chennai,Maharashtra
+WSP0160,Web Development,07-04-2024,In Progress,82,81,Pune,Telangana
+WSP0161,Machine Learning,11-01-2024,In Progress,83,66,Pune,Uttar Pradesh
+WSP0162,Web Development,14-04-2024,In Progress,72,84,Hyderabad,Maharashtra
+WSP0163,Web Development,07-03-2024,In Progress,56,86,Ahmedabad,Karnataka
+WSP0164,Machine Learning,02-05-2024,Completed,87,68,Kolkata,Telangana
+WSP0165,Data Science,29-01-2024,In Progress,,93,Ahmedabad,Delhi
+WSP0166,Digital Marketing,16-05-2024,Dropped Out,52,78,Bangalore,Uttar Pradesh
+WSP0167,Machine Learning,01-06-2024,Dropped Out,89,56,Delhi,Maharashtra
+WSP0168,Data Science,16-03-2024,Completed,50,77,Hyderabad,Telangana
+WSP0169,Data Science,18-06-2024,Completed,70,58,Bangalore,Delhi
+WSP0170,Web Development,09-01-2024,Completed,67,77,Bangalore,Rajasthan
+WSP0171,Web Development,09-02-2024,In Progress,83,55,Kolkata,nan
+WSP0172,Data Science,25-01-2024,In Progress,45,78,Mumbai,Karnataka
+WSP0173,Machine Learning,05-01-2024,Completed,80,66,Mumbai,Rajasthan
+WSP0174,Data Science,18-05-2024,In Progress,55,65,Ahmedabad,Karnataka
+WSP0175,Web Development,03-05-2024,In Progress,43,72,Hyderabad,Maharashtra
+WSP0176,Data Science,07-02-2024,In Progress,74,80,Mumbai,Gujarat
+WSP0177,Web Development,12-03-2024,In Progress,99,52,Bangalore,Maharashtra
+WSP0178,Machine Learning,12-05-2024,In Progress,87,70,Mumbai,Rajasthan
+WSP0179,Cybersecurity,24-06-2024,In Progress,95,75,Chennai,West Bengal
+WSP0180,Data Science,30-03-2024,Completed,98,85,Mumbai,Maharashtra
+WSP0181,Machine Learning,25-05-2024,In Progress,65,91,Bangalore,Rajasthan
+WSP0182,Data Science,06-02-2024,In Progress,96,86,Ahmedabad,Telangana
+WSP0183,Cybersecurity,29-02-2024,In Progress,51,71,Kolkata,Maharashtra
+WSP0184,Digital Marketing,24-06-2024,In Progress,50,91,Hyderabad,Telangana
+WSP0185,Data Science,28-01-2024,In Progress,76,61,Delhi,Karnataka
+WSP0186,Web Development,21-03-2024,Completed,64,91,Mumbai,Uttar Pradesh
+WSP0187,Digital Marketing,23-04-2024,In Progress,57,62,Pune,Gujarat
+WSP0188,Web Development,09-02-2024,Completed,58,60,Pune,Karnataka
+WSP0189,Machine Learning,14-02-2024,Completed,62,65,Ahmedabad,Karnataka
+WSP0190,Data Science,02-03-2024,In Progress,94,57,Bangalore,Rajasthan
+WSP0191,Data Science,02-04-2024,Dropped Out,77,89,Delhi,West Bengal
+WSP0192,Digital Marketing,24-04-2024,Completed,93,89,Delhi,Tamil Nadu
+WSP0193,Cybersecurity,07-03-2024,In Progress,57,,Chennai,West Bengal
+WSP0194,Web Development,25-02-2024,In Progress,65,51,Delhi,Rajasthan
+WSP0195,Machine Learning,09-02-2024,Completed,45,79,Pune,Gujarat
+WSP0196,Machine Learning,07-04-2024,In Progress,43,79,Kolkata,Rajasthan
+WSP0197,Web Development,09-02-2024,In Progress,83,61,Bangalore,Delhi
+WSP0198,Digital Marketing,31-03-2024,In Progress,90,59,Bangalore,Karnataka
+WSP0199,Digital Marketing,02-02-2024,Completed,68,93,Mumbai,Uttar Pradesh
+WSP0200,Digital Marketing,06-01-2024,Completed,98,60,Mumbai,Delhi
+WSP0201,Web Development,26-05-2024,In Progress,100,64,Mumbai,Rajasthan
+WSP0202,Data Science,20-03-2024,In Progress,73,65,Pune,Delhi
+WSP0203,Data Science,16-06-2024,Completed,56,66,Pune,Uttar Pradesh
+WSP0204,Digital Marketing,01-04-2024,In Progress,82,75,Ahmedabad,Rajasthan
+WSP0205,Web Development,06-04-2024,Completed,82,51,Pune,Rajasthan
+WSP0206,Data Science,28-02-2024,In Progress,,99,Pune,Delhi
+WSP0207,Data Science,28-02-2024,Completed,,61,Pune,Telangana
+WSP0208,Web Development,17-02-2024,Dropped Out,41,100,Pune,Maharashtra
+WSP0209,Data Science,17-06-2024,Completed,73,75,Kolkata,Rajasthan
+WSP0210,Data Science,13-01-2024,Completed,94,72,Pune,Delhi
+WSP0211,Machine Learning,16-04-2024,Completed,47,67,Ahmedabad,Tamil Nadu
+WSP0212,Web Development,14-02-2024,Completed,52,81,Delhi,Gujarat
+WSP0213,Web Development,29-03-2024,In Progress,81,98,Delhi,Tamil Nadu
+WSP0214,Data Science,18-06-2024,Dropped Out,47,87,Chennai,Delhi
+WSP0215,Web Development,09-04-2024,Completed,69,96,Kolkata,Karnataka
+WSP0216,Data Science,03-06-2024,In Progress,71,52,Mumbai,Karnataka
+WSP0217,Machine Learning,14-06-2024,In Progress,75,87,Hyderabad,Delhi
+WSP0218,Web Development,07-01-2024,In Progress,86,52,Pune,Rajasthan
+WSP0219,Web Development,12-05-2024,In Progress,69,79,Chennai,Uttar Pradesh
+WSP0220,Digital Marketing,14-02-2024,Completed,40,50,Hyderabad,Maharashtra
+WSP0221,Web Development,27-02-2024,In Progress,82,79,Ahmedabad,nan
+WSP0222,Web Development,31-01-2024,In Progress,78,94,Delhi,Tamil Nadu
+WSP0223,Data Science,23-01-2024,Completed,56,81,Chennai,Maharashtra
+WSP0224,Machine Learning,18-06-2024,In Progress,98,77,Ahmedabad,Tamil Nadu
+WSP0225,Data Science,17-05-2024,Completed,59,70,Chennai,Delhi
+WSP0226,Data Science,08-06-2024,In Progress,63,95,Bangalore,Uttar Pradesh
+WSP0227,Cybersecurity,16-04-2024,Completed,89,62,Ahmedabad,Tamil Nadu
+WSP0228,Machine Learning,06-06-2024,In Progress,61,76,Delhi,Uttar Pradesh
+WSP0229,Digital Marketing,08-02-2024,In Progress,68,85,Delhi,Rajasthan
+WSP0230,Web Development,07-06-2024,In Progress,61,56,Kolkata,Delhi
+WSP0231,Digital Marketing,22-03-2024,Completed,83,,Chennai,Gujarat
+WSP0232,Machine Learning,09-04-2024,In Progress,48,59,Pune,Karnataka
+WSP0233,Web Development,02-01-2024,In Progress,76,88,Delhi,West Bengal
+WSP0234,Machine Learning,17-03-2024,In Progress,49,64,Chennai,Uttar Pradesh
+WSP0235,Data Science,12-01-2024,In Progress,75,64,Kolkata,Gujarat
+WSP0236,Web Development,08-02-2024,In Progress,76,53,Pune,Gujarat
+WSP0237,Data Science,13-01-2024,In Progress,67,81,Ahmedabad,Uttar Pradesh
+WSP0238,Data Science,15-02-2024,Completed,67,72,Kolkata,Gujarat
+WSP0239,Web Development,03-06-2024,In Progress,81,55,Bangalore,Tamil Nadu
+WSP0240,Data Science,22-04-2024,In Progress,82,73,Pune,Gujarat
+WSP0241,Cybersecurity,17-01-2024,Completed,60,69,Chennai,Maharashtra
+WSP0242,Cybersecurity,13-04-2024,Completed,63,86,Delhi,Tamil Nadu
+WSP0243,Cybersecurity,07-04-2024,Completed,81,69,Delhi,Gujarat
+WSP0244,Machine Learning,28-03-2024,In Progress,99,61,Chennai,Rajasthan
+WSP0245,Data Science,18-04-2024,In Progress,79,82,Chennai,Karnataka
+WSP0246,Cybersecurity,11-06-2024,In Progress,,77,Chennai,Delhi
+WSP0247,Machine Learning,10-03-2024,In Progress,94,57,Mumbai,Gujarat
+WSP0248,Cybersecurity,06-06-2024,In Progress,47,50,Pune,Telangana
+WSP0249,Cybersecurity,14-03-2024,Completed,87,86,Delhi,Karnataka
+WSP0250,Digital Marketing,03-03-2024,Completed,66,71,Pune,Rajasthan
+WSP0251,Data Science,04-06-2024,In Progress,61,55,Kolkata,Gujarat
+WSP0252,Machine Learning,29-02-2024,Completed,76,70,Delhi,Gujarat
+WSP0253,Digital Marketing,19-03-2024,Completed,66,81,Mumbai,West Bengal
+WSP0254,Machine Learning,06-02-2024,In Progress,96,84,Chennai,Maharashtra
+WSP0255,Data Science,22-01-2024,In Progress,68,64,Bangalore,Maharashtra
+WSP0256,Web Development,27-05-2024,Dropped Out,42,54,Chennai,Karnataka
+WSP0257,Cybersecurity,05-04-2024,Dropped Out,83,95,Ahmedabad,West Bengal
+WSP0258,Web Development,08-03-2024,In Progress,52,99,Chennai,Delhi
+WSP0259,Web Development,17-01-2024,In Progress,84,97,Mumbai,Tamil Nadu
+WSP0260,Data Science,12-01-2024,In Progress,49,55,Pune,Maharashtra
+WSP0261,Web Development,29-05-2024,In Progress,75,74,Delhi,West Bengal
+WSP0262,Cybersecurity,24-05-2024,Completed,48,95,Chennai,Maharashtra
+WSP0263,Data Science,17-05-2024,In Progress,93,89,Delhi,Uttar Pradesh
+WSP0264,Machine Learning,27-04-2024,In Progress,95,78,Hyderabad,Rajasthan
+WSP0265,Digital Marketing,22-01-2024,Completed,94,56,Kolkata,Delhi
+WSP0266,Web Development,29-04-2024,In Progress,66,89,Pune,Rajasthan
+WSP0267,Web Development,19-02-2024,In Progress,73,62,Delhi,Gujarat
+WSP0268,Web Development,14-01-2024,Completed,90,87,Bangalore,Maharashtra
+WSP0269,Machine Learning,23-06-2024,Completed,40,67,Kolkata,Gujarat
+WSP0270,Data Science,29-01-2024,Completed,71,51,Ahmedabad,Telangana
+WSP0271,Digital Marketing,12-06-2024,Completed,64,57,Ahmedabad,Maharashtra
+WSP0272,Digital Marketing,28-06-2024,Completed,68,60,Bangalore,West Bengal
+WSP0273,Digital Marketing,04-05-2024,In Progress,46,82,Chennai,Delhi
+WSP0274,Cybersecurity,07-01-2024,Completed,88,87,Kolkata,Gujarat
+WSP0275,Machine Learning,29-01-2024,In Progress,42,97,Delhi,Maharashtra
+WSP0276,Machine Learning,18-05-2024,Completed,59,76,Kolkata,Telangana
+WSP0277,Digital Marketing,02-02-2024,Dropped Out,59,69,Chennai,Rajasthan
+WSP0278,Web Development,13-05-2024,Completed,92,61,Mumbai,West Bengal
+WSP0279,Web Development,20-04-2024,In Progress,69,92,Pune,Uttar Pradesh
+WSP0280,Digital Marketing,19-03-2024,In Progress,74,80,Bangalore,Maharashtra
+WSP0281,Digital Marketing,08-06-2024,In Progress,74,76,Chennai,Uttar Pradesh
+WSP0282,Machine Learning,27-06-2024,Completed,88,81,Mumbai,Karnataka
+WSP0283,Machine Learning,27-02-2024,In Progress,78,59,Kolkata,Delhi
+WSP0284,Data Science,26-01-2024,In Progress,66,52,Kolkata,Maharashtra
+WSP0285,Web Development,22-06-2024,In Progress,65,94,Chennai,Telangana
+WSP0286,Data Science,29-01-2024,Completed,53,76,Delhi,Gujarat
+WSP0287,Machine Learning,04-01-2024,Completed,56,84,Kolkata,Karnataka
+WSP0288,Machine Learning,08-04-2024,In Progress,57,80,Delhi,Delhi
+WSP0289,Data Science,20-05-2024,In Progress,84,64,Delhi,Rajasthan
+WSP0290,Web Development,08-02-2024,In Progress,91,65,Pune,West Bengal
+WSP0291,Data Science,15-01-2024,In Progress,68,62,Delhi,Uttar Pradesh
+WSP0292,Data Science,28-04-2024,In Progress,59,98,Hyderabad,Karnataka
+WSP0293,Digital Marketing,29-01-2024,Completed,92,84,Pune,Gujarat
+WSP0294,Machine Learning,05-06-2024,In Progress,66,60,Mumbai,West Bengal
+WSP0295,Data Science,15-03-2024,Completed,57,70,Mumbai,Rajasthan
+WSP0296,Machine Learning,25-04-2024,In Progress,43,100,Kolkata,nan
+WSP0297,Digital Marketing,01-02-2024,In Progress,40,,Kolkata,Telangana
+WSP0298,Data Science,09-05-2024,Dropped Out,89,79,Delhi,Uttar Pradesh
+WSP0299,Web Development,23-06-2024,Completed,40,97,Pune,Maharashtra
+WSP0300,Data Science,24-03-2024,Completed,,84,Pune,Karnataka
+WSP0301,Data Science,22-01-2024,Completed,65,71,Hyderabad,Maharashtra
+WSP0302,Machine Learning,27-01-2024,Completed,84,87,Delhi,West Bengal
+WSP0303,Machine Learning,21-03-2024,Completed,59,80,Hyderabad,Maharashtra
+WSP0304,Web Development,05-05-2024,Dropped Out,91,63,Ahmedabad,Tamil Nadu
+WSP0305,Web Development,01-04-2024,Completed,62,73,Delhi,West Bengal
+WSP0306,Cybersecurity,21-01-2024,Completed,49,99,Bangalore,nan
+WSP0307,Machine Learning,16-02-2024,In Progress,98,98,Bangalore,Gujarat
+WSP0308,Machine Learning,10-04-2024,In Progress,50,81,Chennai,Uttar Pradesh
+WSP0309,Digital Marketing,24-03-2024,In Progress,80,85,Delhi,Maharashtra
+WSP0310,Data Science,06-01-2024,Completed,80,81,Pune,Delhi
+WSP0311,Machine Learning,26-05-2024,In Progress,,64,Kolkata,West Bengal
+WSP0312,Data Science,10-05-2024,Completed,97,92,Mumbai,Gujarat
+WSP0313,Data Science,01-01-2024,Completed,40,84,Chennai,Rajasthan
+WSP0314,Cybersecurity,27-02-2024,Dropped Out,56,52,Kolkata,Telangana
+WSP0315,Digital Marketing,03-05-2024,Completed,61,65,Bangalore,Uttar Pradesh
+WSP0316,Web Development,14-06-2024,In Progress,73,54,Delhi,Uttar Pradesh
+WSP0317,Machine Learning,15-01-2024,In Progress,95,70,Chennai,West Bengal
+WSP0318,Data Science,10-06-2024,Completed,84,59,Delhi,Delhi
+WSP0319,Data Science,11-06-2024,In Progress,80,68,Bangalore,Maharashtra
+WSP0320,Data Science,04-03-2024,Completed,68,74,Chennai,Maharashtra
+WSP0321,Machine Learning,25-01-2024,In Progress,43,53,Bangalore,West Bengal
+WSP0322,Web Development,24-01-2024,Dropped Out,44,78,Hyderabad,Uttar Pradesh
+WSP0323,Web Development,12-01-2024,In Progress,50,68,Bangalore,Gujarat
+WSP0324,Data Science,18-01-2024,Dropped Out,95,92,Pune,Telangana
+WSP0325,Cybersecurity,15-01-2024,Completed,,51,Pune,West Bengal
+WSP0326,Web Development,27-01-2024,In Progress,60,59,Delhi,Gujarat
+WSP0327,Web Development,12-03-2024,Completed,74,92,Mumbai,Gujarat
+WSP0328,Web Development,29-02-2024,In Progress,51,74,Bangalore,Rajasthan
+WSP0329,Machine Learning,22-06-2024,Dropped Out,65,69,Kolkata,Tamil Nadu
+WSP0330,Data Science,24-05-2024,Completed,90,97,Pune,Telangana
+WSP0331,Machine Learning,02-04-2024,In Progress,58,68,Ahmedabad,Karnataka
+WSP0332,Digital Marketing,22-02-2024,Completed,84,72,Mumbai,Delhi
+WSP0333,Data Science,08-01-2024,In Progress,,73,Hyderabad,Tamil Nadu
+WSP0334,Data Science,19-03-2024,In Progress,46,60,Chennai,Rajasthan
+WSP0335,Data Science,27-01-2024,Dropped Out,86,95,Chennai,Telangana
+WSP0336,Data Science,22-06-2024,In Progress,94,83,Pune,Maharashtra
+WSP0337,Digital Marketing,19-02-2024,Completed,46,77,Mumbai,Tamil Nadu
+WSP0338,Web Development,10-05-2024,Completed,65,54,Pune,Maharashtra
+WSP0339,Machine Learning,02-04-2024,Completed,79,54,Chennai,Delhi
+WSP0340,Data Science,20-06-2024,Completed,44,100,Ahmedabad,Maharashtra
+WSP0341,Machine Learning,24-01-2024,Completed,60,70,Bangalore,Delhi
+WSP0342,Machine Learning,29-02-2024,In Progress,53,61,Mumbai,Telangana
+WSP0343,Data Science,01-05-2024,In Progress,43,99,Delhi,Uttar Pradesh
+WSP0344,Machine Learning,10-05-2024,In Progress,62,53,Bangalore,Delhi
+WSP0345,Machine Learning,27-05-2024,Completed,81,98,Bangalore,Gujarat
+WSP0346,Web Development,15-02-2024,In Progress,59,91,Bangalore,Karnataka
+WSP0347,Web Development,15-01-2024,In Progress,54,69,Delhi,Karnataka
+WSP0348,Data Science,01-06-2024,Completed,89,87,Ahmedabad,West Bengal
+WSP0349,Machine Learning,17-01-2024,In Progress,91,74,Hyderabad,Karnataka
+WSP0350,Web Development,05-05-2024,In Progress,84,63,Ahmedabad,West Bengal
+WSP0351,Machine Learning,24-03-2024,Completed,68,60,Ahmedabad,Karnataka
+WSP0352,Digital Marketing,09-01-2024,In Progress,47,81,Ahmedabad,Delhi
+WSP0353,Web Development,14-06-2024,In Progress,80,60,Kolkata,Gujarat
+WSP0354,Data Science,24-06-2024,Completed,87,67,Pune,Uttar Pradesh
+WSP0355,Data Science,03-03-2024,Dropped Out,58,76,Chennai,Maharashtra
+WSP0356,Web Development,26-04-2024,In Progress,87,67,Pune,Rajasthan
+WSP0357,Data Science,09-05-2024,In Progress,78,72,Mumbai,Karnataka
+WSP0358,Web Development,28-03-2024,In Progress,85,,Ahmedabad,Uttar Pradesh
+WSP0359,Cybersecurity,12-03-2024,In Progress,67,70,Hyderabad,Uttar Pradesh
+WSP0360,Web Development,18-05-2024,In Progress,85,93,Mumbai,Delhi
+WSP0361,Machine Learning,04-03-2024,In Progress,96,54,Pune,Telangana
+WSP0362,Web Development,12-03-2024,Completed,66,72,Chennai,Telangana
+WSP0363,Machine Learning,21-01-2024,In Progress,43,90,Delhi,Karnataka
+WSP0364,Machine Learning,18-01-2024,In Progress,97,74,Pune,Rajasthan
+WSP0365,Cybersecurity,04-03-2024,In Progress,,90,Bangalore,Karnataka
+WSP0366,Machine Learning,22-03-2024,Completed,74,59,Pune,Karnataka
+WSP0367,Cybersecurity,19-04-2024,In Progress,76,71,Bangalore,West Bengal
+WSP0368,Cybersecurity,04-04-2024,Completed,40,68,Delhi,Gujarat
+WSP0369,Data Science,14-06-2024,Completed,42,50,Pune,Gujarat
+WSP0370,Data Science,01-02-2024,Completed,86,56,Hyderabad,Rajasthan
+WSP0371,Data Science,11-01-2024,Completed,63,53,Hyderabad,West Bengal
+WSP0372,Data Science,14-02-2024,In Progress,66,50,Mumbai,Uttar Pradesh
+WSP0373,Data Science,02-02-2024,In Progress,79,64,Delhi,West Bengal
+WSP0374,Web Development,11-04-2024,Completed,100,89,Ahmedabad,Karnataka
+WSP0375,Data Science,17-06-2024,In Progress,75,61,Hyderabad,Telangana
+WSP0376,Machine Learning,15-05-2024,In Progress,73,71,Pune,Tamil Nadu
+WSP0377,Digital Marketing,11-01-2024,In Progress,68,71,Delhi,Rajasthan
+WSP0378,Data Science,27-06-2024,Completed,63,99,Chennai,Uttar Pradesh
+WSP0379,Digital Marketing,28-03-2024,In Progress,63,96,Bangalore,Delhi
+WSP0380,Data Science,10-02-2024,Dropped Out,81,66,Pune,Tamil Nadu
+WSP0381,Data Science,24-05-2024,In Progress,43,78,Bangalore,Tamil Nadu
+WSP0382,Web Development,16-03-2024,Completed,42,95,Bangalore,West Bengal
+WSP0383,Web Development,30-04-2024,Completed,73,63,Ahmedabad,Maharashtra
+WSP0384,Digital Marketing,15-02-2024,In Progress,96,99,Delhi,Tamil Nadu
+WSP0385,Web Development,08-06-2024,Dropped Out,88,69,Delhi,Karnataka
+WSP0386,Digital Marketing,20-03-2024,In Progress,62,99,Mumbai,Telangana
+WSP0387,Data Science,23-02-2024,In Progress,92,97,Bangalore,Telangana
+WSP0388,Data Science,26-03-2024,Completed,95,82,Mumbai,Gujarat
+WSP0389,Digital Marketing,01-04-2024,In Progress,91,92,Ahmedabad,Karnataka
+WSP0390,Digital Marketing,27-05-2024,In Progress,62,64,Bangalore,Delhi
+WSP0391,Cybersecurity,09-06-2024,Completed,84,61,Mumbai,Tamil Nadu
+WSP0392,Machine Learning,16-06-2024,In Progress,44,,Mumbai,Gujarat
+WSP0393,Machine Learning,08-06-2024,Dropped Out,70,69,Chennai,Karnataka
+WSP0394,Digital Marketing,06-04-2024,Completed,92,,Mumbai,West Bengal
+WSP0395,Machine Learning,02-01-2024,In Progress,80,87,Delhi,Telangana
+WSP0396,Cybersecurity,02-02-2024,Completed,96,52,Mumbai,Gujarat
+WSP0397,Digital Marketing,06-06-2024,In Progress,100,77,Bangalore,Rajasthan
+WSP0398,Machine Learning,09-06-2024,In Progress,96,75,Mumbai,Tamil Nadu
+WSP0399,Digital Marketing,17-03-2024,In Progress,99,79,Hyderabad,Tamil Nadu
+WSP0400,Digital Marketing,25-04-2024,In Progress,93,62,Kolkata,Delhi
+WSP0401,Data Science,02-06-2024,Completed,45,62,Bangalore,Maharashtra
+WSP0402,Cybersecurity,29-05-2024,Dropped Out,,51,Hyderabad,Rajasthan
+WSP0403,Machine Learning,12-04-2024,In Progress,,86,Ahmedabad,Tamil Nadu
+WSP0404,Digital Marketing,14-06-2024,Completed,49,98,Bangalore,Uttar Pradesh
+WSP0405,Machine Learning,12-04-2024,In Progress,79,,Delhi,Rajasthan
+WSP0406,Digital Marketing,30-03-2024,In Progress,46,51,Kolkata,Tamil Nadu
+WSP0407,Machine Learning,22-06-2024,Completed,78,85,Kolkata,Rajasthan
+WSP0408,Data Science,01-05-2024,In Progress,77,75,Delhi,Karnataka
+WSP0409,Cybersecurity,22-05-2024,Dropped Out,60,60,Kolkata,Rajasthan
+WSP0410,Data Science,15-04-2024,Completed,100,57,Delhi,Delhi
+WSP0411,Machine Learning,28-04-2024,Dropped Out,59,93,Hyderabad,West Bengal
+WSP0412,Cybersecurity,20-06-2024,Completed,42,89,Ahmedabad,West Bengal
+WSP0413,Cybersecurity,18-02-2024,Completed,90,92,Chennai,West Bengal
+WSP0414,Web Development,13-04-2024,Completed,,71,Bangalore,Karnataka
+WSP0415,Web Development,01-03-2024,In Progress,,69,Delhi,Gujarat
+WSP0416,Machine Learning,02-05-2024,In Progress,43,57,Bangalore,West Bengal
+WSP0417,Data Science,13-05-2024,Completed,67,78,Ahmedabad,Telangana
+WSP0418,Machine Learning,09-01-2024,In Progress,51,89,Hyderabad,Karnataka
+WSP0419,Web Development,06-01-2024,In Progress,77,75,Chennai,Gujarat
+WSP0420,Digital Marketing,13-03-2024,Completed,,79,Ahmedabad,Telangana
+WSP0421,Digital Marketing,12-04-2024,In Progress,75,66,Hyderabad,Telangana
+WSP0422,Digital Marketing,08-06-2024,In Progress,86,69,Kolkata,Telangana
+WSP0423,Data Science,10-02-2024,In Progress,80,65,Bangalore,Uttar Pradesh
+WSP0424,Machine Learning,23-04-2024,Dropped Out,44,95,Pune,Delhi
+WSP0425,Data Science,08-01-2024,In Progress,52,92,Chennai,Delhi
+WSP0426,Machine Learning,12-03-2024,Dropped Out,62,56,Kolkata,Karnataka
+WSP0427,Machine Learning,26-06-2024,In Progress,97,65,Ahmedabad,Telangana
+WSP0428,Digital Marketing,01-04-2024,In Progress,,94,Chennai,Rajasthan
+WSP0429,Machine Learning,02-03-2024,Completed,69,96,Kolkata,Gujarat
+WSP0430,Data Science,24-03-2024,In Progress,76,97,Hyderabad,Delhi
+WSP0431,Data Science,02-03-2024,In Progress,64,76,Delhi,West Bengal
+WSP0432,Digital Marketing,20-04-2024,Completed,87,72,Bangalore,Karnataka
+WSP0433,Web Development,06-05-2024,Completed,66,73,Mumbai,Gujarat
+WSP0434,Data Science,07-01-2024,In Progress,90,58,Mumbai,Karnataka
+WSP0435,Data Science,24-03-2024,In Progress,53,84,Hyderabad,Uttar Pradesh
+WSP0436,Web Development,11-05-2024,In Progress,96,100,Ahmedabad,Uttar Pradesh
+WSP0437,Data Science,13-05-2024,In Progress,87,69,Bangalore,Telangana
+WSP0438,Digital Marketing,27-02-2024,Completed,98,86,Ahmedabad,Uttar Pradesh
+WSP0439,Web Development,22-01-2024,In Progress,86,91,Bangalore,Karnataka
+WSP0440,Data Science,02-06-2024,Completed,93,66,Hyderabad,West Bengal
+WSP0441,Data Science,06-05-2024,In Progress,75,96,Bangalore,Telangana
+WSP0442,Cybersecurity,03-01-2024,In Progress,78,80,Delhi,Tamil Nadu
+WSP0443,Machine Learning,06-05-2024,In Progress,55,57,Ahmedabad,Gujarat
+WSP0444,Machine Learning,10-02-2024,In Progress,95,,Hyderabad,Telangana
+WSP0445,Digital Marketing,15-04-2024,Completed,61,80,Delhi,nan
+WSP0446,Cybersecurity,14-01-2024,In Progress,60,79,Bangalore,nan
+WSP0447,Cybersecurity,12-01-2024,In Progress,93,95,Hyderabad,West Bengal
+WSP0448,Digital Marketing,27-03-2024,In Progress,60,69,Bangalore,Maharashtra
+WSP0449,Machine Learning,12-01-2024,Completed,47,88,Ahmedabad,Karnataka
+WSP0450,Data Science,20-05-2024,In Progress,88,61,Hyderabad,Delhi
+WSP0451,Digital Marketing,25-01-2024,In Progress,55,98,Bangalore,Maharashtra
+WSP0452,Web Development,14-02-2024,Completed,98,66,Ahmedabad,Gujarat
+WSP0453,Machine Learning,01-05-2024,Completed,94,,Delhi,Uttar Pradesh
+WSP0454,Cybersecurity,26-05-2024,In Progress,70,79,Pune,Karnataka
+WSP0455,Data Science,24-02-2024,In Progress,81,78,Delhi,Gujarat
+WSP0456,Machine Learning,09-04-2024,Completed,49,68,Bangalore,Uttar Pradesh
+WSP0457,Data Science,21-06-2024,Completed,71,95,Hyderabad,West Bengal
+WSP0458,Machine Learning,15-05-2024,Completed,98,60,Mumbai,West Bengal
+WSP0459,Data Science,28-04-2024,Completed,73,83,Delhi,Telangana
+WSP0460,Data Science,22-02-2024,In Progress,48,99,Delhi,Delhi
+WSP0461,Data Science,01-02-2024,In Progress,56,56,Ahmedabad,Telangana
+WSP0462,Web Development,20-02-2024,In Progress,50,93,Kolkata,Delhi
+WSP0463,Web Development,13-02-2024,In Progress,71,83,Mumbai,Karnataka
+WSP0464,Web Development,22-03-2024,Completed,49,69,Bangalore,Tamil Nadu
+WSP0465,Cybersecurity,25-05-2024,In Progress,61,99,Pune,Rajasthan
+WSP0466,Machine Learning,29-05-2024,In Progress,96,87,Hyderabad,Maharashtra
+WSP0467,Data Science,06-02-2024,Dropped Out,56,73,Kolkata,Uttar Pradesh
+WSP0468,Digital Marketing,05-04-2024,In Progress,,59,Bangalore,Maharashtra
+WSP0469,Data Science,25-02-2024,Completed,,81,Chennai,West Bengal
+WSP0470,Cybersecurity,14-04-2024,In Progress,91,64,Pune,Delhi
+WSP0471,Data Science,28-02-2024,Completed,86,86,Delhi,Uttar Pradesh
+WSP0472,Cybersecurity,10-05-2024,In Progress,64,69,Chennai,West Bengal
+WSP0473,Data Science,04-06-2024,Completed,98,52,Delhi,Uttar Pradesh
+WSP0474,Digital Marketing,04-02-2024,Completed,60,86,Delhi,Telangana
+WSP0475,Machine Learning,02-04-2024,In Progress,76,89,Chennai,West Bengal
+WSP0476,Cybersecurity,06-04-2024,Completed,77,57,Pune,Telangana
+WSP0477,Data Science,14-05-2024,In Progress,88,89,Ahmedabad,Telangana
+WSP0478,Web Development,16-03-2024,Completed,40,93,Chennai,Uttar Pradesh
+WSP0479,Cybersecurity,18-02-2024,In Progress,64,72,Bangalore,nan
+WSP0480,Machine Learning,03-04-2024,In Progress,90,89,Kolkata,Maharashtra
+WSP0481,Web Development,07-06-2024,In Progress,75,60,Kolkata,West Bengal
+WSP0482,Web Development,24-01-2024,Completed,56,95,Chennai,Rajasthan
+WSP0483,Machine Learning,27-05-2024,Completed,80,57,Bangalore,Gujarat
+WSP0484,Web Development,06-02-2024,Completed,63,78,Ahmedabad,nan
+WSP0485,Web Development,04-01-2024,Completed,41,79,Kolkata,West Bengal
+WSP0486,Cybersecurity,17-04-2024,In Progress,79,59,Bangalore,Delhi
+WSP0487,Data Science,05-05-2024,Dropped Out,54,88,Ahmedabad,Maharashtra
+WSP0488,Data Science,20-01-2024,In Progress,71,77,Bangalore,Rajasthan
+WSP0489,Cybersecurity,31-05-2024,In Progress,78,98,Delhi,Karnataka
+WSP0490,Digital Marketing,19-02-2024,In Progress,98,85,Kolkata,Telangana
+WSP0491,Machine Learning,25-06-2024,In Progress,45,62,Ahmedabad,Karnataka
+WSP0492,Web Development,27-06-2024,Completed,40,81,Kolkata,Gujarat
+WSP0493,Data Science,05-04-2024,Dropped Out,86,85,Delhi,Telangana
+WSP0494,Data Science,14-04-2024,In Progress,62,86,Chennai,West Bengal
+WSP0495,Machine Learning,12-06-2024,In Progress,97,75,Delhi,Gujarat
+WSP0496,Machine Learning,26-04-2024,Completed,78,71,Kolkata,Rajasthan
+WSP0497,Web Development,07-04-2024,In Progress,100,53,Kolkata,Uttar Pradesh
+WSP0498,Data Science,06-03-2024,In Progress,96,80,Pune,West Bengal
+WSP0499,Cybersecurity,19-03-2024,In Progress,56,67,Ahmedabad,Maharashtra
+WSP0500,Cybersecurity,10-06-2024,In Progress,73,87,Chennai,Uttar Pradesh
+WSP0501,Web Development,12-06-2024,Completed,98,73,Delhi,Gujarat
+WSP0502,Machine Learning,06-01-2024,Dropped Out,80,72,Ahmedabad,Maharashtra
+WSP0503,Machine Learning,08-02-2024,Completed,,71,Hyderabad,Rajasthan
+WSP0504,Digital Marketing,18-06-2024,In Progress,48,51,Ahmedabad,Karnataka
+WSP0505,Web Development,24-04-2024,Completed,52,80,Hyderabad,Maharashtra
+WSP0506,Data Science,04-05-2024,In Progress,45,60,Chennai,Karnataka
+WSP0507,Cybersecurity,12-01-2024,Dropped Out,,77,Delhi,Telangana
+WSP0508,Digital Marketing,10-05-2024,Completed,59,95,Delhi,Delhi
+WSP0509,Cybersecurity,18-01-2024,In Progress,91,81,Bangalore,Tamil Nadu
+WSP0510,Web Development,09-02-2024,Completed,92,54,Kolkata,West Bengal
+WSP0511,Web Development,21-01-2024,Dropped Out,42,87,Mumbai,Tamil Nadu
+WSP0512,Machine Learning,22-05-2024,In Progress,56,59,Pune,Telangana
+WSP0513,Cybersecurity,08-04-2024,In Progress,88,89,Ahmedabad,Maharashtra
+WSP0514,Digital Marketing,26-01-2024,Completed,51,95,Chennai,Telangana
+WSP0515,Data Science,08-01-2024,Dropped Out,87,73,Mumbai,Tamil Nadu
+WSP0516,Data Science,09-04-2024,In Progress,86,84,Ahmedabad,Tamil Nadu
+WSP0517,Machine Learning,27-03-2024,Completed,84,93,Mumbai,West Bengal
+WSP0518,Digital Marketing,11-02-2024,In Progress,94,97,Chennai,Uttar Pradesh
+WSP0519,Cybersecurity,20-06-2024,Completed,40,72,Delhi,Telangana
+WSP0520,Data Science,14-01-2024,In Progress,56,66,Chennai,Delhi
+WSP0521,Web Development,18-03-2024,Completed,42,50,Ahmedabad,Telangana
+WSP0522,Machine Learning,02-01-2024,In Progress,65,,Mumbai,Rajasthan
+WSP0523,Cybersecurity,28-04-2024,In Progress,54,80,Kolkata,Gujarat
+WSP0524,Digital Marketing,06-02-2024,Completed,75,91,Pune,Gujarat
+WSP0525,Digital Marketing,09-03-2024,Completed,71,91,Pune,Tamil Nadu
+WSP0526,Machine Learning,14-06-2024,Completed,71,83,Kolkata,Gujarat
+WSP0527,Machine Learning,10-02-2024,In Progress,43,58,Kolkata,Karnataka
+WSP0528,Data Science,02-03-2024,Completed,,71,Delhi,Delhi
+WSP0529,Data Science,29-02-2024,In Progress,88,62,Ahmedabad,Gujarat
+WSP0530,Digital Marketing,04-05-2024,Completed,58,74,Hyderabad,Maharashtra
+WSP0531,Digital Marketing,20-04-2024,Completed,82,97,Chennai,Karnataka
+WSP0532,Cybersecurity,14-01-2024,In Progress,91,67,Pune,Karnataka
+WSP0533,Cybersecurity,24-03-2024,Completed,74,100,Kolkata,Telangana
+WSP0534,Web Development,09-05-2024,Dropped Out,79,61,Chennai,Tamil Nadu
+WSP0535,Digital Marketing,10-03-2024,In Progress,53,89,Pune,West Bengal
+WSP0536,Cybersecurity,24-05-2024,In Progress,97,66,Kolkata,West Bengal
+WSP0537,Digital Marketing,02-05-2024,In Progress,72,64,Ahmedabad,Rajasthan
+WSP0538,Data Science,29-03-2024,In Progress,53,91,Pune,Delhi
+WSP0539,Machine Learning,28-01-2024,Completed,73,64,Delhi,Telangana
+WSP0540,Data Science,06-03-2024,Completed,100,64,Hyderabad,West Bengal
+WSP0541,Cybersecurity,11-06-2024,Completed,94,88,Hyderabad,Tamil Nadu
+WSP0542,Web Development,05-01-2024,In Progress,43,62,Kolkata,West Bengal
+WSP0543,Data Science,16-06-2024,Completed,63,66,Pune,Maharashtra
+WSP0544,Web Development,12-06-2024,In Progress,98,81,Delhi,Karnataka
+WSP0545,Web Development,14-02-2024,Dropped Out,68,58,Bangalore,West Bengal
+WSP0546,Machine Learning,30-05-2024,In Progress,,89,Chennai,Telangana
+WSP0547,Data Science,16-02-2024,In Progress,45,69,Chennai,Gujarat
+WSP0548,Web Development,31-01-2024,Completed,96,75,Mumbai,Gujarat
+WSP0549,Machine Learning,18-05-2024,In Progress,72,76,Delhi,Gujarat
+WSP0550,Digital Marketing,10-01-2024,In Progress,88,70,Pune,Telangana
+WSP0551,Machine Learning,27-04-2024,Completed,79,67,Ahmedabad,Delhi
+WSP0552,Digital Marketing,14-01-2024,Completed,58,62,Ahmedabad,Gujarat
+WSP0553,Web Development,20-03-2024,Dropped Out,92,65,Mumbai,Rajasthan
+WSP0554,Web Development,02-04-2024,In Progress,40,58,Kolkata,Tamil Nadu
+WSP0555,Digital Marketing,10-01-2024,In Progress,44,61,Pune,nan
+WSP0556,Machine Learning,16-03-2024,In Progress,66,93,Mumbai,Gujarat
+WSP0557,Data Science,03-04-2024,In Progress,55,87,Hyderabad,Telangana
+WSP0558,Data Science,14-04-2024,In Progress,45,68,Chennai,Gujarat
+WSP0559,Digital Marketing,01-01-2024,In Progress,79,56,Pune,West Bengal
+WSP0560,Web Development,12-05-2024,Completed,52,84,Mumbai,Gujarat
+WSP0561,Web Development,20-01-2024,In Progress,87,97,Hyderabad,Maharashtra
+WSP0562,Data Science,08-01-2024,In Progress,74,67,Delhi,Maharashtra
+WSP0563,Data Science,19-06-2024,In Progress,58,65,Mumbai,Gujarat
+WSP0564,Data Science,01-01-2024,In Progress,51,88,Kolkata,Karnataka
+WSP0565,Machine Learning,26-02-2024,In Progress,55,53,Kolkata,Telangana
+WSP0566,Web Development,04-03-2024,In Progress,98,74,Kolkata,Rajasthan
+WSP0567,Machine Learning,27-04-2024,In Progress,82,81,Pune,Rajasthan
+WSP0568,Machine Learning,28-01-2024,In Progress,49,89,Ahmedabad,Gujarat
+WSP0569,Cybersecurity,30-04-2024,In Progress,64,62,Ahmedabad,Gujarat
+WSP0570,Machine Learning,16-04-2024,Completed,59,94,Chennai,Maharashtra
+WSP0571,Machine Learning,13-06-2024,In Progress,70,66,Mumbai,Karnataka
+WSP0572,Digital Marketing,23-06-2024,Completed,43,98,Delhi,Gujarat
+WSP0573,Machine Learning,13-06-2024,Completed,83,86,Mumbai,Rajasthan
+WSP0574,Web Development,18-02-2024,In Progress,62,55,Chennai,nan
+WSP0575,Digital Marketing,29-04-2024,In Progress,41,68,Hyderabad,nan
+WSP0576,Cybersecurity,13-02-2024,Dropped Out,95,62,Chennai,West Bengal
+WSP0577,Data Science,25-02-2024,In Progress,61,75,Kolkata,Gujarat
+WSP0578,Cybersecurity,04-06-2024,In Progress,90,63,Pune,Gujarat
+WSP0579,Machine Learning,20-04-2024,In Progress,96,80,Hyderabad,Karnataka
+WSP0580,Data Science,13-05-2024,In Progress,,53,Pune,Delhi
+WSP0581,Machine Learning,17-04-2024,Completed,47,88,Kolkata,Tamil Nadu
+WSP0582,Cybersecurity,27-05-2024,Completed,46,57,Bangalore,Telangana
+WSP0583,Machine Learning,23-04-2024,Completed,53,74,Chennai,Telangana
+WSP0584,Machine Learning,18-03-2024,In Progress,95,62,Chennai,Maharashtra
+WSP0585,Web Development,09-05-2024,Completed,94,81,Delhi,Maharashtra
+WSP0586,Data Science,06-02-2024,Completed,42,87,Mumbai,Uttar Pradesh
+WSP0587,Data Science,20-01-2024,Completed,89,87,Hyderabad,Rajasthan
+WSP0588,Data Science,26-01-2024,Dropped Out,,77,Ahmedabad,Telangana
+WSP0589,Data Science,29-01-2024,Completed,94,79,Pune,Karnataka
+WSP0590,Data Science,01-01-2024,In Progress,58,52,Hyderabad,Karnataka
+WSP0591,Data Science,28-04-2024,Completed,90,77,Delhi,Delhi
+WSP0592,Web Development,04-02-2024,In Progress,57,52,Delhi,Karnataka
+WSP0593,Data Science,28-02-2024,Completed,91,94,Pune,Gujarat
+WSP0594,Machine Learning,09-03-2024,Completed,55,83,Ahmedabad,Rajasthan
+WSP0595,Digital Marketing,09-06-2024,In Progress,47,65,Mumbai,Gujarat
+WSP0596,Machine Learning,27-06-2024,Completed,99,71,Pune,West Bengal
+WSP0597,Web Development,12-01-2024,Completed,72,81,Pune,Telangana
+WSP0598,Data Science,20-01-2024,Completed,88,87,Kolkata,Rajasthan
+WSP0599,Data Science,12-02-2024,Completed,51,57,Ahmedabad,Tamil Nadu
+WSP0600,Data Science,05-05-2024,Completed,92,57,Mumbai,Tamil Nadu
+WSP0601,Data Science,19-02-2024,Completed,50,55,Chennai,West Bengal
+WSP0602,Data Science,29-01-2024,In Progress,44,63,Kolkata,Rajasthan
+WSP0603,Data Science,08-02-2024,In Progress,66,81,Bangalore,Uttar Pradesh
+WSP0604,Data Science,19-06-2024,In Progress,51,,Ahmedabad,Uttar Pradesh
+WSP0605,Data Science,26-06-2024,Completed,56,59,Mumbai,Uttar Pradesh
+WSP0606,Machine Learning,30-05-2024,Dropped Out,45,52,Delhi,Telangana
+WSP0607,Data Science,20-06-2024,Completed,72,61,Kolkata,Telangana
+WSP0608,Machine Learning,07-02-2024,Completed,44,98,Mumbai,Uttar Pradesh
+WSP0609,Machine Learning,24-03-2024,In Progress,96,80,Hyderabad,nan
+WSP0610,Web Development,30-05-2024,Completed,67,78,Pune,Rajasthan
+WSP0611,Data Science,07-05-2024,Completed,53,54,Bangalore,Karnataka
+WSP0612,Digital Marketing,05-05-2024,In Progress,44,74,Chennai,Rajasthan
+WSP0613,Web Development,14-02-2024,In Progress,93,90,Pune,Uttar Pradesh
+WSP0614,Data Science,21-02-2024,In Progress,95,80,Hyderabad,Rajasthan
+WSP0615,Digital Marketing,20-03-2024,In Progress,98,70,Hyderabad,Delhi
+WSP0616,Cybersecurity,26-06-2024,Dropped Out,72,69,Bangalore,Telangana
+WSP0617,Data Science,03-05-2024,Completed,89,88,Chennai,Telangana
+WSP0618,Data Science,28-04-2024,Completed,87,71,Delhi,Tamil Nadu
+WSP0619,Digital Marketing,08-01-2024,Completed,80,53,Kolkata,Karnataka
+WSP0620,Web Development,25-03-2024,In Progress,58,62,Ahmedabad,Uttar Pradesh
+WSP0621,Data Science,08-05-2024,In Progress,61,94,Chennai,Tamil Nadu
+WSP0622,Data Science,08-01-2024,Dropped Out,44,91,Ahmedabad,Tamil Nadu
+WSP0623,Machine Learning,05-06-2024,In Progress,98,99,Mumbai,Karnataka
+WSP0624,Machine Learning,05-04-2024,In Progress,41,98,Hyderabad,Gujarat
+WSP0625,Web Development,11-04-2024,Completed,69,69,Mumbai,Uttar Pradesh
+WSP0626,Machine Learning,05-01-2024,In Progress,86,62,Delhi,Telangana
+WSP0627,Machine Learning,26-03-2024,Dropped Out,78,66,Mumbai,Karnataka
+WSP0628,Web Development,23-06-2024,In Progress,43,85,Chennai,Delhi
+WSP0629,Data Science,03-02-2024,Completed,72,82,Mumbai,Tamil Nadu
+WSP0630,Data Science,24-02-2024,In Progress,52,50,Delhi,Karnataka
+WSP0631,Web Development,28-04-2024,Completed,59,64,Delhi,Telangana
+WSP0632,Digital Marketing,19-06-2024,Completed,93,62,Delhi,Rajasthan
+WSP0633,Machine Learning,06-06-2024,Completed,46,66,Chennai,Telangana
+WSP0634,Machine Learning,23-04-2024,In Progress,54,73,Delhi,Delhi
+WSP0635,Data Science,24-05-2024,In Progress,62,57,Hyderabad,Karnataka
+WSP0636,Machine Learning,26-01-2024,Completed,,99,Pune,Delhi
+WSP0637,Machine Learning,15-05-2024,Completed,62,76,Delhi,Uttar Pradesh
+WSP0638,Data Science,16-02-2024,In Progress,58,94,Mumbai,Uttar Pradesh
+WSP0639,Data Science,22-04-2024,Completed,93,72,Kolkata,Rajasthan
+WSP0640,Machine Learning,16-03-2024,Completed,68,95,Mumbai,Tamil Nadu
+WSP0641,Data Science,12-03-2024,In Progress,95,57,Kolkata,Gujarat
+WSP0642,Machine Learning,29-03-2024,In Progress,59,57,Mumbai,Maharashtra
+WSP0643,Data Science,15-02-2024,Completed,68,75,Chennai,Delhi
+WSP0644,Machine Learning,02-02-2024,Completed,63,96,Mumbai,Rajasthan
+WSP0645,Data Science,01-01-2024,Completed,57,62,Chennai,Telangana
+WSP0646,Digital Marketing,26-05-2024,Dropped Out,49,88,Chennai,Karnataka
+WSP0647,Web Development,31-01-2024,In Progress,80,86,Delhi,Tamil Nadu
+WSP0648,Web Development,21-05-2024,In Progress,96,98,Hyderabad,Maharashtra
+WSP0649,Digital Marketing,22-02-2024,Completed,47,77,Kolkata,Karnataka
+WSP0650,Machine Learning,17-02-2024,In Progress,65,74,Delhi,Telangana
+WSP0651,Data Science,09-03-2024,Completed,68,65,Delhi,Maharashtra
+WSP0652,Machine Learning,14-04-2024,In Progress,49,51,Pune,Telangana
+WSP0653,Web Development,30-03-2024,Dropped Out,56,67,Chennai,nan
+WSP0654,Web Development,03-03-2024,In Progress,41,66,Chennai,Telangana
+WSP0655,Machine Learning,13-03-2024,In Progress,45,79,Kolkata,Uttar Pradesh
+WSP0656,Data Science,09-06-2024,In Progress,97,88,Mumbai,Maharashtra
+WSP0657,Data Science,17-06-2024,Completed,44,62,Mumbai,Telangana
+WSP0658,Machine Learning,29-03-2024,Dropped Out,67,81,Ahmedabad,Gujarat
+WSP0659,Web Development,24-06-2024,Completed,80,99,Delhi,Maharashtra
+WSP0660,Web Development,13-01-2024,In Progress,44,78,Ahmedabad,Uttar Pradesh
+WSP0661,Machine Learning,13-03-2024,Completed,57,95,Bangalore,Delhi
+WSP0662,Cybersecurity,17-03-2024,Completed,65,79,Bangalore,Delhi
+WSP0663,Web Development,07-06-2024,In Progress,59,67,Ahmedabad,Tamil Nadu
+WSP0664,Data Science,08-03-2024,Completed,80,62,Mumbai,West Bengal
+WSP0665,Data Science,07-04-2024,In Progress,88,92,Bangalore,Gujarat
+WSP0666,Data Science,04-05-2024,In Progress,66,70,Pune,Delhi
+WSP0667,Data Science,11-04-2024,Completed,88,79,Mumbai,Uttar Pradesh
+WSP0668,Data Science,11-05-2024,Completed,,70,Chennai,West Bengal
+WSP0669,Data Science,11-04-2024,In Progress,46,97,Delhi,Telangana
+WSP0670,Data Science,19-01-2024,Completed,98,66,Hyderabad,Telangana
+WSP0671,Data Science,22-03-2024,In Progress,42,89,Delhi,Rajasthan
+WSP0672,Digital Marketing,20-05-2024,In Progress,49,68,Ahmedabad,West Bengal
+WSP0673,Data Science,23-01-2024,In Progress,73,64,Mumbai,nan
+WSP0674,Machine Learning,23-03-2024,In Progress,64,58,Ahmedabad,Gujarat
+WSP0675,Machine Learning,18-04-2024,In Progress,74,59,Pune,West Bengal
+WSP0676,Cybersecurity,15-03-2024,In Progress,55,93,Mumbai,Delhi
+WSP0677,Data Science,08-05-2024,Completed,41,80,Delhi,Gujarat
+WSP0678,Machine Learning,28-03-2024,Completed,99,72,Pune,nan
+WSP0679,Cybersecurity,23-02-2024,In Progress,63,79,Pune,Gujarat
+WSP0680,Digital Marketing,29-03-2024,In Progress,49,82,Pune,Telangana
+WSP0681,Digital Marketing,22-05-2024,In Progress,77,58,Kolkata,Rajasthan
+WSP0682,Data Science,05-03-2024,In Progress,61,96,Mumbai,Delhi
+WSP0683,Data Science,16-03-2024,In Progress,65,50,Bangalore,Maharashtra
+WSP0684,Web Development,22-05-2024,Dropped Out,82,93,Bangalore,Delhi
+WSP0685,Cybersecurity,28-05-2024,In Progress,94,84,Mumbai,Delhi
+WSP0686,Web Development,26-05-2024,Completed,78,60,Mumbai,Karnataka
+WSP0687,Web Development,29-02-2024,In Progress,66,83,Kolkata,Telangana
+WSP0688,Data Science,02-04-2024,Completed,68,65,Bangalore,Telangana
+WSP0689,Digital Marketing,09-06-2024,In Progress,86,58,Mumbai,Uttar Pradesh
+WSP0690,Data Science,18-02-2024,In Progress,77,81,Mumbai,Karnataka
+WSP0691,Machine Learning,04-02-2024,In Progress,59,,Ahmedabad,Tamil Nadu
+WSP0692,Machine Learning,20-06-2024,Completed,66,61,Kolkata,Delhi
+WSP0693,Machine Learning,11-04-2024,Completed,80,82,Kolkata,Uttar Pradesh
+WSP0694,Data Science,11-01-2024,In Progress,93,94,Delhi,Karnataka
+WSP0695,Data Science,08-04-2024,Completed,59,63,Kolkata,Rajasthan
+WSP0696,Web Development,19-04-2024,In Progress,83,57,Hyderabad,Gujarat
+WSP0697,Data Science,14-03-2024,Completed,58,57,Bangalore,nan
+WSP0698,Web Development,22-06-2024,Completed,,76,Delhi,Telangana
+WSP0699,Data Science,09-01-2024,Completed,74,61,Hyderabad,Karnataka
+WSP0700,Machine Learning,03-01-2024,In Progress,86,50,Mumbai,Delhi
+WSP0701,Machine Learning,25-03-2024,In Progress,41,92,Ahmedabad,Delhi
+WSP0702,Data Science,26-01-2024,Completed,69,89,Ahmedabad,Maharashtra
+WSP0703,Machine Learning,12-03-2024,Completed,92,91,Mumbai,Gujarat
+WSP0704,Data Science,17-02-2024,In Progress,73,100,Delhi,Uttar Pradesh
+WSP0705,Data Science,04-06-2024,Completed,61,60,Kolkata,Karnataka
+WSP0706,Cybersecurity,26-04-2024,In Progress,,88,Pune,Delhi
+WSP0707,Machine Learning,02-06-2024,In Progress,45,92,Ahmedabad,Maharashtra
+WSP0708,Digital Marketing,01-06-2024,Completed,,80,Pune,Karnataka
+WSP0709,Data Science,12-01-2024,Completed,66,66,Mumbai,West Bengal
+WSP0710,Web Development,12-05-2024,Dropped Out,49,82,Pune,Delhi
+WSP0711,Digital Marketing,17-02-2024,In Progress,48,81,Chennai,West Bengal
+WSP0712,Web Development,06-02-2024,In Progress,72,78,Delhi,Karnataka
+WSP0713,Machine Learning,13-02-2024,Completed,71,70,Hyderabad,Delhi
+WSP0714,Machine Learning,15-01-2024,In Progress,87,70,Delhi,West Bengal
+WSP0715,Machine Learning,12-02-2024,Completed,45,89,Bangalore,Tamil Nadu
+WSP0716,Cybersecurity,24-06-2024,In Progress,80,72,Kolkata,Maharashtra
+WSP0717,Digital Marketing,27-03-2024,Dropped Out,98,55,Kolkata,Uttar Pradesh
+WSP0718,Cybersecurity,10-03-2024,Completed,75,71,Delhi,Gujarat
+WSP0719,Data Science,15-02-2024,Completed,98,99,Mumbai,Maharashtra
+WSP0720,Web Development,17-04-2024,Completed,99,87,Mumbai,West Bengal
+WSP0721,Cybersecurity,02-05-2024,Completed,41,86,Chennai,Delhi
+WSP0722,Data Science,19-06-2024,Completed,68,94,Chennai,Tamil Nadu
+WSP0723,Data Science,21-01-2024,Completed,43,100,Kolkata,Tamil Nadu
+WSP0724,Web Development,30-05-2024,In Progress,40,57,Chennai,Gujarat
+WSP0725,Web Development,16-04-2024,In Progress,58,,Ahmedabad,Tamil Nadu
+WSP0726,Digital Marketing,20-03-2024,Completed,65,98,Ahmedabad,Maharashtra
+WSP0727,Data Science,16-02-2024,Dropped Out,64,84,Hyderabad,Tamil Nadu
+WSP0728,Digital Marketing,26-04-2024,Completed,49,100,Chennai,Gujarat
+WSP0729,Data Science,03-05-2024,Dropped Out,92,60,Hyderabad,Tamil Nadu
+WSP0730,Data Science,22-05-2024,Completed,54,73,Chennai,Tamil Nadu
+WSP0731,Data Science,25-01-2024,In Progress,98,98,Kolkata,Rajasthan
+WSP0732,Digital Marketing,05-02-2024,In Progress,61,70,Kolkata,Maharashtra
+WSP0733,Web Development,20-02-2024,In Progress,90,100,Hyderabad,West Bengal
+WSP0734,Machine Learning,15-01-2024,Dropped Out,87,51,Delhi,Telangana
+WSP0735,Machine Learning,08-03-2024,Completed,60,89,Kolkata,Tamil Nadu
+WSP0736,Digital Marketing,21-01-2024,Dropped Out,98,68,Delhi,Uttar Pradesh
+WSP0737,Machine Learning,20-05-2024,Completed,95,88,Mumbai,Tamil Nadu
+WSP0738,Digital Marketing,19-01-2024,Completed,61,77,Ahmedabad,Rajasthan
+WSP0739,Machine Learning,03-02-2024,Completed,75,66,Hyderabad,West Bengal
+WSP0740,Machine Learning,18-03-2024,In Progress,73,55,Pune,Uttar Pradesh
+WSP0741,Machine Learning,04-05-2024,Completed,69,68,Kolkata,Uttar Pradesh
+WSP0742,Machine Learning,26-04-2024,In Progress,64,87,Bangalore,Maharashtra
+WSP0743,Web Development,21-02-2024,In Progress,84,,Mumbai,Gujarat
+WSP0744,Machine Learning,27-01-2024,In Progress,67,51,Delhi,Gujarat
+WSP0745,Data Science,05-06-2024,In Progress,40,87,Kolkata,West Bengal
+WSP0746,Digital Marketing,04-06-2024,In Progress,88,86,Hyderabad,Gujarat
+WSP0747,Machine Learning,04-02-2024,Completed,84,100,Pune,Karnataka
+WSP0748,Machine Learning,15-05-2024,Completed,43,53,Chennai,Rajasthan
+WSP0749,Cybersecurity,23-05-2024,Completed,46,71,Pune,Telangana
+WSP0750,Web Development,15-04-2024,Completed,88,75,Bangalore,Telangana
+WSP0751,Data Science,12-06-2024,Completed,48,98,Delhi,Maharashtra
+WSP0752,Cybersecurity,06-06-2024,Completed,75,92,Mumbai,Maharashtra
+WSP0753,Web Development,25-05-2024,Dropped Out,58,85,Pune,Telangana
+WSP0754,Machine Learning,02-01-2024,In Progress,,62,Hyderabad,Gujarat
+WSP0755,Data Science,25-06-2024,Completed,49,81,Bangalore,Delhi
+WSP0756,Digital Marketing,17-03-2024,In Progress,75,66,Hyderabad,Karnataka
+WSP0757,Web Development,11-05-2024,Completed,48,90,Kolkata,Tamil Nadu
+WSP0758,Machine Learning,30-03-2024,In Progress,84,85,Chennai,West Bengal
+WSP0759,Digital Marketing,29-03-2024,In Progress,85,95,Mumbai,Rajasthan
+WSP0760,Digital Marketing,03-04-2024,In Progress,81,68,Hyderabad,Delhi
+WSP0761,Data Science,07-01-2024,In Progress,,84,Delhi,Karnataka
+WSP0762,Machine Learning,04-04-2024,Dropped Out,71,95,Kolkata,Tamil Nadu
+WSP0763,Data Science,17-04-2024,In Progress,45,89,Kolkata,Maharashtra
+WSP0764,Web Development,14-03-2024,In Progress,87,77,Mumbai,Karnataka
+WSP0765,Data Science,08-02-2024,In Progress,77,50,Kolkata,Telangana
+WSP0766,Web Development,20-05-2024,In Progress,56,91,Delhi,Karnataka
+WSP0767,Digital Marketing,07-06-2024,Completed,49,67,Hyderabad,West Bengal
+WSP0768,Digital Marketing,11-03-2024,Completed,89,97,Mumbai,Uttar Pradesh
+WSP0769,Machine Learning,25-02-2024,Completed,66,89,Ahmedabad,Maharashtra
+WSP0770,Digital Marketing,18-06-2024,In Progress,93,82,Kolkata,Rajasthan
+WSP0771,Data Science,11-02-2024,In Progress,89,61,Kolkata,Rajasthan
+WSP0772,Digital Marketing,05-02-2024,Completed,74,57,Delhi,Karnataka
+WSP0773,Data Science,24-03-2024,Dropped Out,91,73,Chennai,Uttar Pradesh
+WSP0774,Machine Learning,27-04-2024,Dropped Out,98,65,Chennai,Tamil Nadu
+WSP0775,Digital Marketing,07-01-2024,In Progress,60,99,Pune,Delhi
+WSP0776,Data Science,23-02-2024,In Progress,64,53,Kolkata,Tamil Nadu
+WSP0777,Data Science,08-05-2024,In Progress,67,,Ahmedabad,Delhi
+WSP0778,Web Development,20-06-2024,Completed,86,,Hyderabad,Uttar Pradesh
+WSP0779,Web Development,29-04-2024,In Progress,54,76,Mumbai,Delhi
+WSP0780,Web Development,21-06-2024,Completed,43,58,Kolkata,West Bengal
+WSP0781,Web Development,15-04-2024,In Progress,68,96,Bangalore,Karnataka
+WSP0782,Machine Learning,16-02-2024,Completed,98,65,Mumbai,Tamil Nadu
+WSP0783,Data Science,02-05-2024,In Progress,48,61,Pune,West Bengal
+WSP0784,Machine Learning,20-05-2024,Dropped Out,66,80,Chennai,Tamil Nadu
+WSP0785,Data Science,28-04-2024,Completed,65,73,Ahmedabad,Karnataka
+WSP0786,Cybersecurity,29-05-2024,In Progress,58,63,Kolkata,Gujarat
+WSP0787,Web Development,27-04-2024,Dropped Out,95,94,Delhi,Delhi
+WSP0788,Machine Learning,21-01-2024,In Progress,67,74,Bangalore,Uttar Pradesh
+WSP0789,Machine Learning,16-05-2024,In Progress,56,83,Kolkata,Gujarat
+WSP0790,Cybersecurity,26-01-2024,In Progress,82,52,Ahmedabad,Gujarat
+WSP0791,Data Science,09-01-2024,Completed,96,73,Pune,Rajasthan
+WSP0792,Web Development,15-01-2024,Completed,80,91,Hyderabad,Telangana
+WSP0793,Machine Learning,10-01-2024,Completed,81,58,Bangalore,West Bengal
+WSP0794,Web Development,01-05-2024,In Progress,89,75,Pune,West Bengal
+WSP0795,Data Science,30-04-2024,Completed,59,69,Kolkata,West Bengal
+WSP0796,Digital Marketing,04-05-2024,In Progress,84,89,Hyderabad,West Bengal
+WSP0797,Cybersecurity,18-06-2024,In Progress,79,59,Bangalore,Gujarat
+WSP0798,Web Development,12-03-2024,In Progress,78,68,Hyderabad,West Bengal
+WSP0799,Web Development,31-05-2024,In Progress,88,52,Hyderabad,Telangana
+WSP0800,Cybersecurity,18-02-2024,Dropped Out,92,73,Bangalore,Maharashtra
+WSP0801,Web Development,02-06-2024,In Progress,62,54,Bangalore,Karnataka
+WSP0802,Data Science,31-03-2024,In Progress,86,52,Hyderabad,West Bengal
+WSP0803,Web Development,06-02-2024,In Progress,71,76,Pune,Uttar Pradesh
+WSP0804,Web Development,08-03-2024,In Progress,91,65,Ahmedabad,Maharashtra
+WSP0805,Machine Learning,19-02-2024,Dropped Out,86,98,Chennai,Uttar Pradesh
+WSP0806,Web Development,31-05-2024,Completed,72,64,Bangalore,Uttar Pradesh
+WSP0807,Cybersecurity,19-01-2024,Completed,96,84,Kolkata,Tamil Nadu
+WSP0808,Cybersecurity,09-04-2024,In Progress,85,61,Mumbai,Uttar Pradesh
+WSP0809,Machine Learning,29-02-2024,In Progress,44,90,Delhi,West Bengal
+WSP0810,Data Science,15-06-2024,In Progress,82,93,Hyderabad,Tamil Nadu
+WSP0811,Cybersecurity,29-03-2024,In Progress,87,75,Hyderabad,Rajasthan
+WSP0812,Digital Marketing,25-05-2024,Completed,73,96,Delhi,Gujarat
+WSP0813,Data Science,26-05-2024,In Progress,79,83,Chennai,Uttar Pradesh
+WSP0814,Cybersecurity,12-06-2024,In Progress,50,72,Delhi,Telangana
+WSP0815,Digital Marketing,09-03-2024,In Progress,100,80,Bangalore,Karnataka
+WSP0816,Machine Learning,23-06-2024,In Progress,89,99,Delhi,Uttar Pradesh
+WSP0817,Web Development,18-02-2024,Dropped Out,,69,Hyderabad,Rajasthan
+WSP0818,Machine Learning,17-04-2024,Completed,97,61,Delhi,Delhi
+WSP0819,Data Science,09-06-2024,In Progress,72,72,Mumbai,Rajasthan
+WSP0820,Machine Learning,28-04-2024,In Progress,,53,Kolkata,nan
+WSP0821,Digital Marketing,28-05-2024,In Progress,55,72,Bangalore,Rajasthan
+WSP0822,Data Science,29-05-2024,In Progress,57,97,Delhi,Gujarat
+WSP0823,Machine Learning,24-06-2024,Completed,69,97,Hyderabad,Karnataka
+WSP0824,Machine Learning,06-02-2024,Completed,,50,Pune,Rajasthan
+WSP0825,Machine Learning,22-05-2024,Completed,94,74,Kolkata,Delhi
+WSP0826,Cybersecurity,11-06-2024,In Progress,49,51,Bangalore,Uttar Pradesh
+WSP0827,Machine Learning,08-06-2024,Completed,57,79,Hyderabad,Gujarat
+WSP0828,Machine Learning,11-01-2024,Completed,77,52,Chennai,Gujarat
+WSP0829,Web Development,17-05-2024,Dropped Out,58,70,Mumbai,Uttar Pradesh
+WSP0830,Machine Learning,18-03-2024,Completed,75,74,Ahmedabad,Telangana
+WSP0831,Data Science,17-03-2024,Dropped Out,98,69,Chennai,Tamil Nadu
+WSP0832,Machine Learning,01-06-2024,In Progress,52,98,Ahmedabad,Karnataka
+WSP0833,Data Science,02-01-2024,In Progress,95,71,Mumbai,Karnataka
+WSP0834,Data Science,04-03-2024,Completed,85,70,Delhi,Telangana
+WSP0835,Machine Learning,04-02-2024,Completed,42,82,Bangalore,Tamil Nadu
+WSP0836,Machine Learning,07-01-2024,In Progress,49,87,Delhi,Karnataka
+WSP0837,Cybersecurity,25-03-2024,In Progress,77,64,Mumbai,Delhi
+WSP0838,Machine Learning,25-05-2024,In Progress,40,95,Mumbai,Maharashtra
+WSP0839,Web Development,07-03-2024,Completed,94,64,Mumbai,Maharashtra
+WSP0840,Web Development,11-02-2024,In Progress,95,95,Ahmedabad,Karnataka
+WSP0841,Data Science,27-04-2024,In Progress,66,74,Kolkata,West Bengal
+WSP0842,Web Development,04-05-2024,In Progress,85,70,Hyderabad,Karnataka
+WSP0843,Data Science,15-06-2024,In Progress,47,73,Bangalore,Uttar Pradesh
+WSP0844,Cybersecurity,17-06-2024,In Progress,90,54,Delhi,Uttar Pradesh
+WSP0845,Data Science,24-01-2024,In Progress,85,55,Delhi,Tamil Nadu
+WSP0846,Machine Learning,15-02-2024,Completed,81,98,Chennai,nan
+WSP0847,Data Science,19-01-2024,In Progress,56,92,Ahmedabad,Delhi
+WSP0848,Cybersecurity,08-03-2024,Completed,48,97,Mumbai,Telangana
+WSP0849,Machine Learning,11-04-2024,In Progress,100,93,Pune,Karnataka
+WSP0850,Web Development,11-02-2024,In Progress,45,96,Mumbai,Delhi
+WSP0851,Data Science,01-02-2024,Completed,82,72,Mumbai,Telangana
+WSP0852,Web Development,15-06-2024,Completed,64,53,Pune,Uttar Pradesh
+WSP0853,Data Science,18-04-2024,Completed,78,76,Delhi,Rajasthan
+WSP0854,Digital Marketing,05-02-2024,In Progress,88,67,Chennai,Delhi
+WSP0855,Data Science,06-04-2024,Dropped Out,,70,Hyderabad,Maharashtra
+WSP0856,Data Science,12-06-2024,Completed,67,77,Pune,Karnataka
+WSP0857,Data Science,10-05-2024,Dropped Out,72,84,Ahmedabad,Tamil Nadu
+WSP0858,Machine Learning,13-03-2024,In Progress,93,71,Kolkata,Maharashtra
+WSP0859,Web Development,15-05-2024,Completed,76,89,Bangalore,Gujarat
+WSP0860,Data Science,06-04-2024,Completed,48,72,Ahmedabad,West Bengal
+WSP0861,Digital Marketing,02-05-2024,In Progress,57,52,Pune,Telangana
+WSP0862,Machine Learning,10-03-2024,In Progress,95,89,Hyderabad,Uttar Pradesh
+WSP0863,Machine Learning,17-06-2024,In Progress,,99,Delhi,Karnataka
+WSP0864,Machine Learning,13-01-2024,Completed,60,59,Kolkata,Tamil Nadu
+WSP0865,Machine Learning,18-02-2024,Completed,41,74,Kolkata,Rajasthan
+WSP0866,Web Development,29-02-2024,In Progress,100,98,Kolkata,Uttar Pradesh
+WSP0867,Data Science,09-05-2024,Completed,97,57,Mumbai,Karnataka
+WSP0868,Data Science,05-01-2024,Completed,,60,Bangalore,Rajasthan
+WSP0869,Digital Marketing,20-06-2024,Completed,98,54,Delhi,Tamil Nadu
+WSP0870,Cybersecurity,27-01-2024,In Progress,99,94,Delhi,West Bengal
+WSP0871,Machine Learning,08-06-2024,Dropped Out,77,86,Kolkata,Maharashtra
+WSP0872,Data Science,28-05-2024,In Progress,97,94,Delhi,Maharashtra
+WSP0873,Web Development,08-01-2024,Dropped Out,79,87,Bangalore,Uttar Pradesh
+WSP0874,Machine Learning,19-02-2024,Completed,75,78,Bangalore,Karnataka
+WSP0875,Data Science,07-03-2024,In Progress,89,54,Chennai,Karnataka
+WSP0876,Data Science,13-02-2024,Completed,99,58,Pune,Tamil Nadu
+WSP0877,Web Development,04-05-2024,In Progress,82,97,Pune,West Bengal
+WSP0878,Web Development,27-02-2024,Dropped Out,76,51,Chennai,Karnataka
+WSP0879,Data Science,03-01-2024,In Progress,54,50,Hyderabad,Tamil Nadu
+WSP0880,Data Science,26-03-2024,Completed,67,89,Pune,Gujarat
+WSP0881,Data Science,10-03-2024,In Progress,57,,Bangalore,Uttar Pradesh
+WSP0882,Web Development,09-05-2024,Completed,73,79,Bangalore,Gujarat
+WSP0883,Data Science,20-06-2024,In Progress,61,60,Pune,Uttar Pradesh
+WSP0884,Data Science,02-01-2024,In Progress,50,77,Bangalore,Rajasthan
+WSP0885,Digital Marketing,11-04-2024,In Progress,97,93,Chennai,Tamil Nadu
+WSP0886,Data Science,04-02-2024,In Progress,96,61,Kolkata,Tamil Nadu
+WSP0887,Web Development,07-04-2024,In Progress,52,88,Kolkata,Delhi
+WSP0888,Data Science,30-01-2024,Completed,43,75,Delhi,Rajasthan
+WSP0889,Data Science,25-04-2024,In Progress,61,62,Ahmedabad,Tamil Nadu
+WSP0890,Data Science,08-01-2024,Completed,46,,Ahmedabad,Karnataka
+WSP0891,Web Development,29-05-2024,In Progress,100,77,Kolkata,Uttar Pradesh
+WSP0892,Digital Marketing,13-02-2024,In Progress,82,79,Mumbai,Gujarat
+WSP0893,Digital Marketing,05-02-2024,In Progress,93,58,Chennai,Uttar Pradesh
+WSP0894,Machine Learning,17-03-2024,In Progress,63,88,Bangalore,Maharashtra
+WSP0895,Web Development,31-01-2024,In Progress,43,80,Pune,Delhi
+WSP0896,Data Science,16-02-2024,Completed,67,70,Kolkata,Tamil Nadu
+WSP0897,Data Science,24-02-2024,In Progress,54,96,Chennai,West Bengal
+WSP0898,Digital Marketing,15-04-2024,Completed,40,83,Kolkata,Telangana
+WSP0899,Data Science,06-06-2024,In Progress,94,80,Hyderabad,Delhi
+WSP0900,Data Science,30-04-2024,Completed,42,74,Bangalore,Tamil Nadu
+WSP0901,Data Science,24-02-2024,Completed,53,61,Hyderabad,Gujarat
+WSP0902,Data Science,23-05-2024,In Progress,77,50,Bangalore,Tamil Nadu
+WSP0903,Data Science,12-01-2024,Completed,89,71,Chennai,Telangana
+WSP0904,Web Development,24-05-2024,In Progress,96,89,Delhi,Gujarat
+WSP0905,Machine Learning,23-05-2024,Completed,40,86,Kolkata,Uttar Pradesh
+WSP0906,Digital Marketing,19-05-2024,Completed,77,96,Kolkata,Gujarat
+WSP0907,Digital Marketing,15-05-2024,In Progress,77,50,Mumbai,Delhi
+WSP0908,Machine Learning,03-01-2024,Completed,60,50,Pune,Uttar Pradesh
+WSP0909,Data Science,23-05-2024,Completed,87,91,Hyderabad,Tamil Nadu
+WSP0910,Machine Learning,30-01-2024,In Progress,68,91,Kolkata,Rajasthan
+WSP0911,Web Development,23-01-2024,Completed,44,70,Chennai,Tamil Nadu
+WSP0912,Data Science,01-04-2024,In Progress,88,64,Delhi,Telangana
+WSP0913,Web Development,24-04-2024,Completed,49,66,Pune,Rajasthan
+WSP0914,Machine Learning,13-04-2024,Completed,67,71,Chennai,Tamil Nadu
+WSP0915,Web Development,27-04-2024,In Progress,60,87,Hyderabad,West Bengal
+WSP0916,Machine Learning,05-01-2024,Completed,89,84,Mumbai,Delhi
+WSP0917,Data Science,13-04-2024,Completed,,94,Kolkata,West Bengal
+WSP0918,Cybersecurity,17-04-2024,Completed,42,65,Chennai,Uttar Pradesh
+WSP0919,Digital Marketing,05-03-2024,Completed,84,57,Pune,Maharashtra
+WSP0920,Data Science,30-04-2024,In Progress,86,96,Bangalore,Tamil Nadu
+WSP0921,Digital Marketing,30-01-2024,Completed,59,66,Delhi,Karnataka
+WSP0922,Machine Learning,28-05-2024,In Progress,58,66,Pune,Karnataka
+WSP0923,Digital Marketing,24-03-2024,In Progress,74,75,Chennai,Gujarat
+WSP0924,Digital Marketing,29-05-2024,In Progress,43,62,Delhi,West Bengal
+WSP0925,Machine Learning,01-02-2024,Dropped Out,44,66,Kolkata,Delhi
+WSP0926,Data Science,09-06-2024,Completed,40,87,Bangalore,Tamil Nadu
+WSP0927,Data Science,16-01-2024,Dropped Out,43,66,Mumbai,Telangana
+WSP0928,Machine Learning,07-02-2024,Completed,51,97,Pune,Gujarat
+WSP0929,Web Development,21-05-2024,In Progress,99,63,Mumbai,Uttar Pradesh
+WSP0930,Data Science,05-02-2024,In Progress,66,94,Bangalore,Rajasthan
+WSP0931,Data Science,30-05-2024,Completed,95,55,Delhi,Uttar Pradesh
+WSP0932,Digital Marketing,23-04-2024,In Progress,81,84,Kolkata,Tamil Nadu
+WSP0933,Cybersecurity,06-03-2024,In Progress,62,95,Chennai,Maharashtra
+WSP0934,Machine Learning,14-04-2024,Completed,64,63,Bangalore,Rajasthan
+WSP0935,Data Science,25-03-2024,Completed,60,96,Hyderabad,West Bengal
+WSP0936,Data Science,02-01-2024,In Progress,100,57,Delhi,Tamil Nadu
+WSP0937,Data Science,15-03-2024,In Progress,97,64,Mumbai,Maharashtra
+WSP0938,Cybersecurity,07-03-2024,Dropped Out,91,76,Pune,West Bengal
+WSP0939,Data Science,28-06-2024,In Progress,63,62,Bangalore,Maharashtra
+WSP0940,Web Development,30-05-2024,Dropped Out,64,98,Mumbai,West Bengal
+WSP0941,Data Science,02-06-2024,In Progress,84,80,Delhi,Delhi
+WSP0942,Web Development,24-02-2024,Completed,94,84,Mumbai,Karnataka
+WSP0943,Web Development,06-01-2024,Completed,85,55,Bangalore,Uttar Pradesh
+WSP0944,Digital Marketing,11-06-2024,In Progress,71,54,Delhi,Delhi
+WSP0945,Data Science,29-05-2024,In Progress,94,71,Hyderabad,nan
+WSP0946,Data Science,19-06-2024,Completed,71,98,Bangalore,Gujarat
+WSP0947,Data Science,22-05-2024,Completed,44,72,Chennai,Karnataka
+WSP0948,Cybersecurity,26-03-2024,Dropped Out,75,74,Ahmedabad,Delhi
+WSP0949,Digital Marketing,29-02-2024,In Progress,,83,Kolkata,Tamil Nadu
+WSP0950,Web Development,10-04-2024,In Progress,81,75,Bangalore,Maharashtra
+WSP0951,Web Development,12-01-2024,In Progress,88,96,Delhi,Rajasthan
+WSP0952,Web Development,18-02-2024,Completed,81,54,Pune,Tamil Nadu
+WSP0953,Data Science,11-02-2024,Completed,97,75,Kolkata,Karnataka
+WSP0954,Cybersecurity,14-06-2024,Completed,78,69,Bangalore,Maharashtra
+WSP0955,Machine Learning,22-03-2024,Completed,55,55,Hyderabad,Rajasthan
+WSP0956,Machine Learning,21-06-2024,In Progress,72,55,Pune,Gujarat
+WSP0957,Machine Learning,04-02-2024,In Progress,88,99,Hyderabad,Karnataka
+WSP0958,Data Science,06-06-2024,In Progress,60,67,Chennai,Rajasthan
+WSP0959,Data Science,06-06-2024,In Progress,100,53,Pune,Delhi
+WSP0960,Web Development,13-05-2024,Completed,48,66,Mumbai,Rajasthan
+WSP0961,Data Science,07-03-2024,In Progress,45,63,Ahmedabad,Karnataka
+WSP0962,Web Development,20-03-2024,In Progress,90,63,Pune,Delhi
+WSP0963,Data Science,07-01-2024,In Progress,84,62,Kolkata,Tamil Nadu
+WSP0964,Machine Learning,28-06-2024,Completed,74,56,Pune,Karnataka
+WSP0965,Data Science,14-01-2024,In Progress,78,93,Delhi,Telangana
+WSP0966,Machine Learning,13-03-2024,In Progress,61,64,Ahmedabad,Gujarat
+WSP0967,Web Development,22-05-2024,Completed,80,68,Delhi,Telangana
+WSP0968,Data Science,28-05-2024,Completed,93,92,Mumbai,Uttar Pradesh
+WSP0969,Web Development,11-06-2024,In Progress,44,96,Pune,Maharashtra
+WSP0970,Machine Learning,06-03-2024,In Progress,81,93,Hyderabad,West Bengal
+WSP0971,Web Development,31-03-2024,Completed,62,84,Hyderabad,Gujarat
+WSP0972,Cybersecurity,09-05-2024,In Progress,56,66,Bangalore,Telangana
+WSP0973,Web Development,11-06-2024,Completed,51,,Chennai,West Bengal
+WSP0974,Data Science,20-01-2024,In Progress,62,68,Kolkata,Gujarat
+WSP0975,Data Science,10-01-2024,Completed,,69,Ahmedabad,West Bengal
+WSP0976,Data Science,25-01-2024,In Progress,42,85,Chennai,Delhi
+WSP0977,Web Development,25-01-2024,Completed,69,84,Pune,Telangana
+WSP0978,Data Science,23-02-2024,Completed,96,81,Chennai,Rajasthan
+WSP0979,Machine Learning,02-02-2024,Completed,61,97,Bangalore,Delhi
+WSP0980,Web Development,12-06-2024,Completed,48,93,Chennai,Gujarat
+WSP0981,Machine Learning,04-04-2024,In Progress,68,89,Ahmedabad,Gujarat
+WSP0982,Digital Marketing,14-01-2024,Completed,86,73,Mumbai,Karnataka
+WSP0983,Data Science,05-03-2024,In Progress,76,66,Bangalore,Telangana
+WSP0984,Data Science,19-04-2024,Completed,62,56,Mumbai,Uttar Pradesh
+WSP0985,Web Development,20-03-2024,Completed,52,92,Pune,Uttar Pradesh
+WSP0986,Machine Learning,23-02-2024,Completed,71,99,Bangalore,Gujarat
+WSP0987,Web Development,04-05-2024,Completed,85,,Pune,Uttar Pradesh
+WSP0988,Machine Learning,28-06-2024,Completed,91,84,Pune,Maharashtra
+WSP0989,Data Science,10-05-2024,In Progress,86,81,Chennai,Karnataka
+WSP0990,Digital Marketing,17-06-2024,In Progress,87,85,Mumbai,Gujarat
+WSP0991,Digital Marketing,13-05-2024,In Progress,62,62,Pune,Uttar Pradesh
+WSP0992,Web Development,25-01-2024,In Progress,84,,Mumbai,Telangana
+WSP0993,Data Science,20-05-2024,In Progress,56,63,Mumbai,Rajasthan
+WSP0994,Web Development,26-04-2024,Completed,94,86,Bangalore,Delhi
+WSP0995,Machine Learning,15-05-2024,In Progress,79,97,Delhi,Delhi
+WSP0996,Data Science,28-05-2024,Dropped Out,60,64,Chennai,Maharashtra
+WSP0997,Cybersecurity,25-01-2024,In Progress,41,96,Pune,West Bengal
+WSP0998,Data Science,19-03-2024,In Progress,76,53,Mumbai,Telangana
+WSP0999,Cybersecurity,08-03-2024,Completed,45,89,Kolkata,West Bengal
+WSP1000,Machine Learning,21-06-2024,In Progress,83,65,Delhi,Karnataka
